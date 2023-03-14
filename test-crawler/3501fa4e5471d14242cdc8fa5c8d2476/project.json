@@ -1,0 +1,14 @@
+{
+    "id": "3501fa4e5471d14242cdc8fa5c8d2476",
+    "name": "mcm-holding",
+    "crawlerInput": {
+        "url": "https://www.mcm-holding.com/",
+        "browser": "chrome-puppeteer",
+        "method": "spiderbot",
+        "limit": 100,
+        "viewport": {
+            "width": 1920,
+            "height": 1080
+        }
+    }
+}
