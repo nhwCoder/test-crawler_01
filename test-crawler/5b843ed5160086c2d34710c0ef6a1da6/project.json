@@ -2,7 +2,7 @@
     "id": "5b843ed5160086c2d34710c0ef6a1da6",
     "name": "mcm",
     "crawlerInput": {
-        "url": "https://www.mcm-holding.com/",
+        "url": "https://www.mcm-holding.com/, https://www.mcm-holding.com/bereich-unternehmenserwerb/",
         "browser": "chrome-puppeteer",
         "method": "urls",
         "autopin": true,
